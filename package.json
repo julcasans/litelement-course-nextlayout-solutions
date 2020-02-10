@@ -1,0 +1,10 @@
+{
+  "name": "js-lzqzmv",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lit-element": "2.2.1",
+    "lit-html": "^1.1.2",
+    "webcomponents": "0.1.4"
+  }
+}
